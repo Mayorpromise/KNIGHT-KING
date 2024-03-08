@@ -1,6 +1,6 @@
 {
-  "name": "𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖",
-  "description": "Hi there, I am 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖  Whatsapp multifunctional bot built in NodeJs by JORDAN to make experience better.\n\t Incase of Any Problem Whatsapp me on: +2349054039891",
+  "name": "MAYOR BOT 🤖",
+  "description": "Hi there, I AM MAYOR BOT 🤖  Whatsapp multifunctional bot built in NodeJs by JORDAN to make experience better.\n\t Incase of Any Problem Whatsapp me on: +2349054039891",
   "logo": "https://telegra.ph/file/473b1a392c20882309874.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/JORDAN-JOELSTAR/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𝐉𝐎𝐑𝐃𝐀𝐍 𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑",
+      "value": "🄼🄰🅈🄾🅁-🄿🅁🄾🄼🄸🅂🄴",
       "required" :true
     },   
     
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :true,    
-      "value": "𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖"
+      "value": "𝐌𝐀𝐘𝐎𝐑 𝐁𝐎𝐓 ™🌈🤖"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :true,    
-      "value": "https://telegra.ph/file/04e1e12ab2d93f3e7dae4.jpg"
+      "value": "https://telegra.ph/file/b49106fa8f7b3f24eea3d.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -47,7 +47,7 @@
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required" :true,    
-      "value": "2"
+      "value": "5"
     }, 
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -72,7 +72,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for always online and virtual typing) | 'recording'(for always online and virtual recording audio) | 'paused' ",
       "required" :true,
-      "value": "available"
+      "value": "unavailable"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot to automatically view your Statuses.",
@@ -132,12 +132,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁",
+      "value": "🄼🄰🅈🄾🅁-🄿🅁🄾🄼🄸🅂🄴",
       "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝙹𝙾𝚁𝙳𝙰𝙽-𝙹𝙾𝙴𝙻𝚂𝚃𝙰𝚁🤖",
+      "value": "𝐌𝐀𝐘𝐎𝐑 𝐁𝐎𝐓 🤖",
       "required": true 
     }
   }, 
