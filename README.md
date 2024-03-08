@@ -1,8 +1,8 @@
- <h1 align="center"> 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 </h1> 
-<p align="center"> Introducing 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖, a modified version of SUHAIL-MD with massive upgrades and features. </p>
+ <h1 align="center"> 𝐌𝐀𝐘𝐎𝐑-𝐁𝐎𝐓 🤖 </h1> 
+<p align="center"> Introducing 𝐌𝐀𝐘𝐎𝐑-𝐁𝐎𝐓 🤖, a modified version of SUHAIL-MD with massive upgrades and features. </p>
 
 <p align="center">
-  <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR">
+  <a href="https://github.com/Mayorpromise/KNIGHT-KING">
     <img alt="Suhail docs" height="300" src="https://telegra.ph/file/1c8ec3a8de7ee14ee0a7c.jpg">
   </a>
 </p>
@@ -10,22 +10,22 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+2349054039891?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖+Repo" target="_blank">
+  <a href="https://wa.me/+2349164717432?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+𝐌𝐀𝐘𝐎𝐑-𝐁𝐎𝐓 🤖+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 is free to use" href="https://github.com/jamesxtreme/JORDAN-JOELSTAR" target="_blank">
+  <a aria-label="𝐌𝐀𝐘𝐎𝐑-𝐁𝐎𝐓 🤖 is free to use" href="https://github.com/Mayorpromise/MAYOR-PROMISE" target="_blank">
     <img alt="Jordan" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{JORDAN-JOELSTAR}/count.svg" alt="𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MAYOR-PROMISE}/count.svg" alt="𝐌𝐀𝐘𝐎𝐑-𝐁𝐎𝐓 🤖 :: Visitor's Count" /></p>
 
 ---
 
 
 
 
-<p align="center"> 𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖 uses
+<p align="center"> 𝐌𝐀𝐘𝐎𝐑-𝐁𝐎𝐓 🤖 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR"><b>𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑 🤖-Bot</b></a> Support Deploy On...
+  <a href="https://github.com/Mayorpromise/KNIGHT-KING"><b>𝐌𝐀𝐘𝐎𝐑-𝐁𝐎𝐓 🤖-Bot</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -50,8 +50,7 @@
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/jamesxtreme/JORDAN-JOELSTAR/issues">issue</a></p>
-
+<p align="center">Need help? please create an <a href="https://github.com/Mayorpromise/KNIGHT-KING/issues">issue</a></p>
  
 
 
@@ -93,11 +92,12 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+2349054039891`](https://wa.me/+2349054039891)
+- If any problem, then [`+2349164717432`](https://wa.me/+2349164717432)
 
 
 ### Thanks To
-- [JORDAN-JOELSTAR](https://github.com/jamesxtreme) 
+- [JORDAN-JOELSTAR](https://github.com/jamesxtreme)
+- [MAYOR-PROMISE](https://github.com/Mayorpromise) 
 
 
 
@@ -106,7 +106,7 @@
 </h2>
    
 ## 
-- *𝐉𝐎𝐑𝐃𝐀𝐍-𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝐌𝐀𝐘𝐎𝐑 𝐁𝐎𝐓 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use 𝐉𝐎𝐑𝐃𝐀𝐍 𝐉𝐎𝐄𝐋𝐒𝐓𝐀𝐑-Bot at your own risk by keeping this warning in mind.*
-- [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/jamesxtreme/JORDAN-JOELSTAR)
+- *Use 𝐌𝐀𝐘𝐎𝐑 𝐁𝐎𝐓 at your own risk by keeping this warning in mind.*
+- [`heroku`]( https://heroku.com/deploy?template=https://github.com/Mayorpromise/KNIGHT-KING)
